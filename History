@@ -1,4 +1,14 @@
- aws configure
+
+Open link and setup terraform 
+
+Select OS properly
+
+https://developer.hashicorp.com/terraform/downloads
+
+
+
+
+aws configure
     2  mkdir terraform
     3  cd terraform/
     4  vim main.tf
